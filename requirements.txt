@@ -1,0 +1,3 @@
+gradio==4.21.0
+qianfan==0.3.5
+python-dotenv==1.0.1
